@@ -1,0 +1,55 @@
+{
+    "Restaurants": [
+        {
+            "Chipotle": {
+                "Comments": [
+                    {
+                        "Jon": "Sick"
+                    },
+                    {
+                        "Tatum": "Amazing"
+                    },
+                    {
+                        "Jack": "This place is okay"
+                    },
+                    {
+                        "Jonathan": "--[===[ This is a long comment. It can contain hyphens, like this: -- It can also contain long brackets of another level than its own level, like this: [====[, or even [[ And they can be closing long brackets, like this: ]====] ]===]"
+                    },
+                    {
+                        "Kendra": "YAY"
+                    },
+                    {
+                        "mAURICIO": "LALLALA"
+                    }
+                ]
+            }
+        },
+        {
+            "5 guys": {
+                "Comments": [
+                    {
+                        "Maur": "Okay"
+                    }
+                ]
+            }
+        },
+        {
+            "Ambar": {
+                "Comments": [
+                    {
+                        "Jon": "Good Food"
+                    }
+                ]
+            }
+        },
+        {
+            "Baked & Wired": {
+                "Comments": [
+                    {
+                        "Jon": "Awesome cupcakes"
+                    }
+                ]
+            }
+        }
+    ]
+}
